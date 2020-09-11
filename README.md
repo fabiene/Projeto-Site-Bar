@@ -1,2 +1,1 @@
-# portugol
-Exercícios Residência de Software
+Desenvolvimento do site do Tô Chegando Bar
