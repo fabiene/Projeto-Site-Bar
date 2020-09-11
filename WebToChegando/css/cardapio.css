@@ -1,0 +1,39 @@
+#menu-cervejas {
+    width: 100%;
+}
+
+#menu-vinhos-drinks {
+    width: 100%;
+}
+
+#menu-destilados {
+    width: 100%;
+}
+
+#menu-sem-alcool {
+    width: 100%;
+}
+
+#menu-petiscos {
+    width: 100%;
+}
+
+#menu-caldos {
+    width: 100%;
+    border: 1px solid #8b0000;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 5px 5px 5px black;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
